@@ -7,11 +7,12 @@ Aquí no encontrarás teoría complicada, sino comandos claros, explicados con e
 
 ## 📑 Contenido
 
-- **00-setup/** → Configuración inicial de Git  
-- **01-basics/** → Comandos básicos (init, status, add, commit, log)  
-- **02-branches/** → Creación y manejo de ramas  
-- **03-remotes/** → Conexión con GitHub y trabajo con repositorios remotos  
-- **04-workflow/** → Flujos de trabajo recomendados (día a día)  
+- [00-setup.md → Configuración inicial](00-setup.md)
+- [01-basics.md → Comandos básicos](01-basics.md)
+- [02-branches.md → Ramas en Git](02-branches.md)
+- [03-remotes.md → Trabajo con remotos (GitHub)](03-remotes.md)
+- [04-workflow.md → Flujos de trabajo](04-workflow.md)
+
 - **recursos/** → Material extra, chuletas (cheat sheets) y enlaces útiles  
 
 ---
