@@ -3,8 +3,6 @@
 En esta sección aprenderás a **instalar y configurar Git** en tu computadora.  
 Es el primer paso antes de empezar a trabajar con repositorios.
 
----
-
 ## 1️⃣ Verificar si ya tienes Git instalado
 
 Abre tu terminal (CMD, PowerShell, Git Bash o terminal de Linux/Mac) y escribe:
@@ -16,8 +14,6 @@ git --version
 Si ves un número de versión igual o superior (ej: `git version 2.42.0`), ¡ya lo tienes instalado! 🎉  
 
 Si no, sigue con la instalación 👇  
-
----
 
 ## 2️⃣ Instalar Git
 
@@ -44,8 +40,6 @@ Descarga el instalador desde [git-scm.com](https://git-scm.com/)
    sudo dnf install git
 ```
 
----
-
 ## 3️⃣ Configurar Git por primera vez
 
 Después de instalar Git, configura tu nombre y correo (se guardan en cada commit):
@@ -69,8 +63,6 @@ Después de instalar Git, configura tu nombre y correo (se guardan en cada commi
 ### ✅ En resumen
 Estos comandos configuran tu **identidad en Git**.  
 Cada vez que hagas un commit, quedará guardado con tu **nombre y correo** para saber quién lo hizo.
-
----
 
 ## 4️⃣ Comprobar la configuración
 
@@ -104,8 +96,6 @@ Incluye configuraciones de tres niveles:
 Este comando sirve para ver rápidamente qué valores de configuración tiene Git activos (nombre, correo, colores, editor, etc.).
 Es útil para comprobar que configuraste Git correctamente antes de empezar a trabajar.
 
----
-
 ## 5️⃣ (Opcional) Configurar un editor de texto
 
 Por defecto, Git abre el editor del sistema para los mensajes de commit.
@@ -129,8 +119,6 @@ Este comando sirve para decirle a Git qué editor de texto usar cuando necesite 
   - `code` = el comando para abrir VS Code desde la terminal.  
   - `--wait` = le dice a Git que **espere a que cierres el editor antes de continuar**.  
     (Si no lo pones, Git podría seguir sin que hayas terminado de escribir el mensaje).  
-
----
 
 ## 6️⃣ Configurar colores en Git (opcional, pero recomendado)
 

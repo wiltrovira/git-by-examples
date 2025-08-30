@@ -3,8 +3,6 @@
 Aprende **Git de manera práctica y fácil**, con ejemplos paso a paso pensados para personas **principiantes**.  
 Aquí no encontrarás teoría complicada, sino comandos claros, explicados con ejemplos reales.
 
----
-
 ## 📑 Contenido
 
 - [00-setup.md → Configuración inicial](00-setup.md)
@@ -15,8 +13,6 @@ Aquí no encontrarás teoría complicada, sino comandos claros, explicados con e
 
 - **recursos/** → Material extra, chuletas (cheat sheets) y enlaces útiles  
 
----
-
 ## 🎯 Objetivo
 
 El objetivo de este repositorio es que cualquier persona pueda:  
@@ -25,14 +21,10 @@ El objetivo de este repositorio es que cualquier persona pueda:
 2. **Practicar con ejemplos reales**  
 3. **Perder el miedo a usar Git y GitHub**  
 
----
-
 ## 🛠️ Requisitos
 
 - Tener instalado [Git](https://git-scm.com/) en tu computadora  
 - Una cuenta en [GitHub](https://github.com/) (opcional, pero recomendado)  
-
----
 
 ## 🚀 Cómo usar este repositorio
 
@@ -47,14 +39,10 @@ El objetivo de este repositorio es que cualquier persona pueda:
 
 Cada sección tiene su propio archivo **`notas.md`** y ejercicios prácticos.
 
----
-
 ## 📌 Nota importante
 
 Este repositorio está hecho para **aprender y practicar**.  
 No tengas miedo de romper cosas: ¡esa es la mejor forma de aprender Git! 💡
-
----
 
 ## 🤝 Contribuciones
 
@@ -62,14 +50,10 @@ No tengas miedo de romper cosas: ¡esa es la mejor forma de aprender Git! 💡
 Haz un **fork** y abre un **pull request**.  
 Toda contribución es bienvenida 🙌
 
----
-
 ## 📖 Recursos adicionales
 
 - [Documentación oficial de Git](https://git-scm.com/doc)  
 - [Pro Git Book (gratis)](https://git-scm.com/book/en/v2)  
 - [GitHub Docs](https://docs.github.com/)  
-
----
 
 Hecho con ❤️ para que aprender Git sea **divertido y práctico**.
