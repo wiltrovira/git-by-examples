@@ -61,6 +61,7 @@ Después de instalar Git, configura tu nombre y correo (se guardan en cada commi
 👉 Es importante usar el **mismo correo de tu cuenta de GitHub** para que los commits se asocien correctamente a tu perfil.  
 
 ### ✅ En resumen
+
 Estos comandos configuran tu **identidad en Git**.  
 Cada vez que hagas un commit, quedará guardado con tu **nombre y correo** para saber quién lo hizo.
 
@@ -155,7 +156,7 @@ Con `color.ui auto`:
 
 Sin colores → todo aparece en **blanco/gris**, y es más difícil distinguir cambios.  
 
-### ✅ En resumen
+## ✅ En resumen
 
 Este comando hace que **Git use colores automáticamente en la terminal**, para que leer los estados, commits y diferencias sea mucho más claro y visual.
 

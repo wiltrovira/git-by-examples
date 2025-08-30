@@ -30,10 +30,9 @@ El objetivo de este repositorio es que cualquier persona pueda:
 
 1. **Clona el proyecto**:
 
-   ```bash
-
-   git clone https://github.com/tu-usuario/git-by-example.git
-
+```bash
+   git clone https://github.com/wiltrovira/git-by-example.git
+```
 
 2. **Explora cada carpeta siguiendo los ejemplos en orden**
 
